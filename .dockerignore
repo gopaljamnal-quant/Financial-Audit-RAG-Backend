@@ -1,0 +1,14 @@
+.git
+.github
+.env
+.env.*
+!.env.example
+__pycache__
+*.pyc
+.pytest_cache
+.venv
+venv
+*.egg-info
+mlruns
+pytest-report.xml
+README.md
